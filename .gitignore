@@ -2,7 +2,7 @@
 .DS_Store
 
 # Book build output
-_book
+# _book
 
 # eBook build output
-*.epub
+# *.epub
